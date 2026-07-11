@@ -4,7 +4,7 @@
   "description": "",
   "main": "js_01.js",
   "scripts": {
-    "src": "npx nodemon js_07.js",
+    "src": "npx nodemon js_09.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
