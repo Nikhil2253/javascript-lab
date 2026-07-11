@@ -4,7 +4,7 @@
   "description": "",
   "main": "js_01.js",
   "scripts": {
-    "js": "npx nodemon js_05.js",
+    "src": "npx nodemon js_07.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Nikhil2253/javascript-lab/issues"
   },
