@@ -1,7 +1,7 @@
 <script setup>
-import vue_10 from './components/vue_10.vue'
+import vue_11 from './components/vue_11.vue'
 </script>
 
 <template>
-  <vue_10/>
+  <vue_11/>
 </template>
